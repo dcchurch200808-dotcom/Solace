@@ -1,0 +1,5 @@
+if (game.GameId == 10769082317) then
+	loadstring(game:HttpGet("https://luaprot.net/api/v3/loaders/get/27109694689879517519"))();
+elseif (game.GameId == 6035872082) then
+	loadstring(game:HttpGet("https://luaprot.net/api/v3/loaders/get/27077743930725586936"))();
+end;
